@@ -1,0 +1,6 @@
+fastapi==0.115.0
+pydantic-settings==2.12.0
+uvicorn[standard]==0.30.1
+pytest==9.0.01
+httpx==0.28.1
+feedparser==6.0.12
