@@ -8,5 +8,4 @@ from app.sources.toms_hardware import TomsHardwareSource
 
 def get_all_sources() -> List[FeedNewsSource]:
     """Return the list of news source instances used by the fetcher."""
-
-    return [ArsTechnicaITSource(), TomsHardwareSource()]
+    return [ArsTechnicaITSource(), TomsHardwareSource()]  # ADD RedditSysadminSource

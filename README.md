@@ -5,6 +5,10 @@ A lightweight system that aggregates IT-related news, filters relevant items for
 
 
 ## Running the Project
+Create a conda environment:
+```
+conda create --name nexthink_challenge python=3.12
+```
 
 Install dependencies:
 ```
